@@ -2,10 +2,10 @@ body {
     text-align: center;
 }
 
-#mynavbar {
+.my_navbar {
     position: sticky;
     top: 0;
-    z-index: 99999;
+    z-index: 9999999999;
 }
 
 #marqueeStyle {
@@ -70,4 +70,8 @@ body {
 
 kbd {
     margin-left: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
 }
