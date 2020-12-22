@@ -75,3 +75,7 @@ kbd {
 html {
     scroll-behavior: smooth;
 }
+
+#button {
+    margin-left: 500px;
+}
